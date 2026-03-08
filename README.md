@@ -19,7 +19,16 @@ Schematic            |  PCB         |   Case
 # Key layout
 <img width="518" height="327" alt="Screenshot 2026-03-02 195940" src="https://github.com/user-attachments/assets/e862835d-b9a3-4c08-8bb5-e9bf781b8b27" />
 
-#BOM
+# BOM
+- 1x Seeeduino XIAO RP2040
+- 15x Blank DSA Keycaps
+- 15x Cherry MX Switches
+- 15x through-hole 1N4148 Diodes
+- 15x SK6812 MINI-E LEDs
+- 4x M3x16 screws
+- 4x M3x5mx4mm heatset inserts
+
+
 
 # Challanges
 I _really_ wanted this to be compact so that it didn't take up too much space. This meant the PCB had to be off centered form the keys to make room for the Seeeduino XIAO. It was also difficult arranging pasts to that the Seeeduino would fit. This made circuitry a bit messy, but it wasnt too bad. I also had to decide how the case should correct the off centered PCB. So I spent 6 hours making various prototypes. I also added variables that would change the cases thickness and the hole spacing from the outside. Basically, I had to decide if I should create the case using the short or long end of the PCB as the referance.
