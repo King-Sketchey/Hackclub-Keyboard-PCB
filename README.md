@@ -23,7 +23,7 @@ Schematic            |  PCB         |   Case
 - 1x Seeeduino XIAO RP2040
 - 15x Blank DSA Keycaps
 - 15x Cherry MX Switches
-- 15x MX hotswap pockets
+- 15x MX hotswap pockets (i know these aren't in the approved list, so I wil provably get these myself)
 - 15x through-hole 1N4148 Diodes
 - 15x SK6812 MINI-E LEDs
 - 4x M3x16 screws
