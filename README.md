@@ -3,7 +3,9 @@ A hackpad for Hack Club's Blueprint.
 It features a 5 x 3 matrix with the basic keys used in most moden games
 
 # Complete hackpad
+<img width="1920" height="1080" alt="Keyboard render2" src="https://github.com/user-attachments/assets/7a6efc53-1bb9-497d-9192-2114034b78b8" />
 <img width="1066" height="805" alt="Screenshot 2026-03-07 170044" src="https://github.com/user-attachments/assets/ae794086-d0ed-42f7-9fac-8aad73baaf0b" />
+
 
 # WHY?
 I am left handed and use my mouse with my left hand , so when I play games on PC, it is quite uncomfortable, as my hands are very close together. With this, I can put it to the right of the main keyboard and have my hands spaced out more evenly, with the display centered.
@@ -17,6 +19,7 @@ Schematic            |  PCB         |   Case
 # Key layout
 <img width="518" height="327" alt="Screenshot 2026-03-02 195940" src="https://github.com/user-attachments/assets/e862835d-b9a3-4c08-8bb5-e9bf781b8b27" />
 
+#BOM
 
 # Challanges
 I _really_ wanted this to be compact so that it didn't take up too much space. This meant the PCB had to be off centered form the keys to make room for the Seeeduino XIAO. It was also difficult arranging pasts to that the Seeeduino would fit. This made circuitry a bit messy, but it wasnt too bad. I also had to decide how the case should correct the off centered PCB. So I spent 6 hours making various prototypes. I also added variables that would change the cases thickness and the hole spacing from the outside. Basically, I had to decide if I should create the case using the short or long end of the PCB as the referance.
