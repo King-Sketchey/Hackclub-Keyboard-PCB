@@ -23,7 +23,7 @@
         "vid": "0xFEED"
     },
     "layouts": {
-        
+
         "LAYOUT": {
             "layout": [
                 { "matrix": [0, 0], "x": 0, "y": 0 },
@@ -46,15 +46,17 @@
             ]
         }
     },
+    "ws2812": {
+    "pin": "GP1"
+},
     "rgb_matrix": {
         "enabled": true,
-        "driver": "ws2812",
-        "pin": "GP1",
         "led_count": 15,
+        "driver" : "ws2812",
         "rgb_order": "GBR",
         "max_brightness": 200,
         "animations": {
-            "RGB_MATRIX_SOLID_REACTIVE_SIMPLE": true
+            "solid_reactive_simple": true
         },
         "layout": [
             {"x":0, "y":0},
@@ -77,6 +79,5 @@
             {"x":4, "y":1},
             {"x":4, "y":2}
         ]
-    }   
-
+    }
 }
