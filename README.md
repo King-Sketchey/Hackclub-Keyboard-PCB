@@ -31,6 +31,10 @@ I _really_ wanted this to be compact so that it didn't take up too much space. T
  I eventually landed on this:
  <img width="1069" height="743" alt="image" src="https://github.com/user-attachments/assets/fae81c46-8759-4c35-909f-b31fe85df0b2" />
 
+ When importing the PCB layout into onshape, the files corrupted so I had to just use a green rectangle.
+ The switches and keycaps loading in took a very long time as well.
+ Doing _anything_ after they were put in took ages.
+<img width="1911" height="989" alt="Screenshot 2026-03-06 211906" src="https://github.com/user-attachments/assets/a455dba4-3b65-4474-aeba-627e6758d1ec" />
  This was also my first time using KiCad and doing anything in C, so that was a bit difficult.
 
 
