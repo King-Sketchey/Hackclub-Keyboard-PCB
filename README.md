@@ -17,6 +17,7 @@ Schematic            |  PCB         |   Case
 
 
 # Key layout
+Yes, I know there is no space bar. I will probably remap one of the keys not used in that geme to space, as not all games need all the keys on the board
 <img width="518" height="327" alt="Screenshot 2026-03-02 195940" src="https://github.com/user-attachments/assets/e862835d-b9a3-4c08-8bb5-e9bf781b8b27" />
 
 # BOM
