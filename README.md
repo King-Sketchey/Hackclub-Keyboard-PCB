@@ -30,7 +30,10 @@ Yes, I know there is no space bar. I will probably remap one of the keys not use
 - 4x M3x16 screws
 - 4x M3x5mx4mm heatset inserts
 
+# Onshape link
+https://cad.onshape.com/documents/e81f3c8bb359bddbe3afce40/w/284b2282b513510683488c8c/e/d996c642921b0e55a3e3b29b?renderMode=0&uiState=69afa99c287afe531b4ab6c1
 
+This is kind of all over the place as I didn't think I was going to be making multiple iterations and I didn't want to redo the centering of the PCB board, so I just made the cases ontop of each other. The naming is kind of wack as well. I also started working on one of the designs before changing to to another, so its all over the place. Sorry.
 
 
 # Challanges
