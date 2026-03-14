@@ -29,6 +29,7 @@ Yes, I know there is no space bar. I will probably remap one of the keys not use
 - 15x SK6812 MINI-E LEDs
 - 4x M3x16 screws
 - 4x M3x5mx4mm heatset inserts
+- 1x USB-C cable
 
 # Onshape link
 https://cad.onshape.com/documents/e81f3c8bb359bddbe3afce40/w/284b2282b513510683488c8c/e/d996c642921b0e55a3e3b29b?renderMode=0&uiState=69afa99c287afe531b4ab6c1
